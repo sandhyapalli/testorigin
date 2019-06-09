@@ -1,1 +1,3 @@
 this is my first file
+this adding line from branch1
+this is adding from branch2
