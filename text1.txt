@@ -1,2 +1,7 @@
 this is my first file
-this is modified from branch1
+<<<<<<< HEAD
+###this is modified from branch1
+=======
+this adding line from branch1
+this is adding from branch2
+>>>>>>> branch2
